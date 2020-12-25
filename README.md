@@ -1,4 +1,4 @@
-# Analysis-of-Criminalization-of-Politics-Using-K-Means-Clustering
+# Analysis-on-Criminalization-of-Politics-Using-K-Means-Clustering
 
 Politicians and lawmakers that are picked by the people can either make or break a nation.
 
